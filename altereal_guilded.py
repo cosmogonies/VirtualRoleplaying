@@ -632,9 +632,5 @@ async def reload(ctx):
     await ctx.send("Cette fonction ne marche pas (encore)")
 
 
-bot.run('altereal@cosmogonies.net', 'C84TYXXLewDeJ9kg')
-
-bot.run(envReader.getGuildedLogin(), envReader.getGuildedToken())
-import altereal_characters
-import characters
+#bot.run(envReader.getGuildedLogin(), envReader.getGuildedToken())
 
