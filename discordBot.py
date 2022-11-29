@@ -10,6 +10,8 @@ import discord
 
 import diceManager
 
+import envReader
+
 import re
 
 #load_dotenv()
@@ -260,4 +262,5 @@ async def doChallengeComplex(author, message):
 
 
 
+client.run(envReader.getDiscordToken())
 print("discordBot.py END")
