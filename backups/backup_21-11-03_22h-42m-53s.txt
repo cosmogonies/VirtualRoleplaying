@@ -1,0 +1,295 @@
+🌐 Darknet		Comment écrire	__**Mode d'emploi des canaux:**__
+Une grande partie des channels (chambre de conversation) représentera la communication virtuelle sous pseudo des participants.
+Des cannaux pourront, à la discrétion des joueurs, représenter une rencontre physique (et qui autorisera donc une interaction avec l'environnement).	__**Rappels des marqueurs :**__
+** **gras ** **
+__ __sous-ligné______   __
+~~ ~~barré~~ ~~
+|| ||spoiler|| ||
+
+> > Citation
+:emoji:		__Dialogue__: Texte normal.
+Un texte sans signe disctinctif est considéré comme soit prononcé, soit écrit en fonction de la nature du canal (respectivement rencontre réelle ou virtuelle.)
+Certains apprécient le double guillement pour bien signifier que ce que vous marquez est dit oralement, mais ce n'est pas obligatoire.
+
+> Si seulement tu pouvais dire vrai !
+__Didascalies__:  * *italic * *
+*Souvenez vous d'utiliser la mise en italiques pour toutes les didascalies et autres informations diégétiques non verbales (indications scéniques, language corporel)*
+
+> Ex: 
+__Appuyer un mot__:  ** **bold ****
+Marque une emphase particulière sur le mot, comme si votre personnage marquait fortement l'accent sur le mot, pour le détacher, lui signifier une grande importance.
+Note: mettre toute une phrase en gras n'a donc aucun d'intérêt, et sans doute voulez-vous plutôt crier (hausse de ton général).
+
+> Ex: "Non, ce n'est pas exactement ce que tu as dit, tu leur as expliqué que 
+Crier: ECRIRE EN MAJUSCULE
+En gras ou non, ça signifie que le personnage hurle.
+
+> Ex: "PUISQUE JE TE DIS QUE JE SUIS CALME !!! "
+[Faire une apparté hors jeu]
+Mettez ces parenthèses carrés pour isoler votre texte de l'échange, et ainsi vous exprimez hors-jeu, c'est à dire hors de votre personnage.
+
+> Ex: [Je ne sais plus si j'ai déjà croisé ton perso physiquement, tu t'en souviens toi ?]	Empathie	**Empathie**
+Grâce à ce talent, vous discernez instinctivement les énergies dégagées par les émotions. 
+Votre intuition vous souffle ce que les gens ressentent autour de vous (et parfois avec un peu trop d’acuité).
+L’avantage, c’est que l’Empathie vous aide à mieux comprendre votre entourage et à apaiser, stimuler ou manipuler son état émotionnel.
+L’inconvénient, c’est que vous êtes parfois vulnérable aux passions des autres (un défaut répandu parmi les mages extatiques), ou que les autres le sont à vos machinations. 
+Associée à des effets basés sur la Psyché, l’Empathie est un outil (ou une arme) redoutable entre les mains d’un Éveillé.	Athlétisme	**Athlétisme**
+Le sport est votre passion. 
+Pendant que les autres restent assis sur la touche, vous courez des marathons et marquez des essais, vous enfourchez votre vélo pour aller au travail et en revenir. 
+Vous vous entraînez souvent pour améliorer vos performances.		Entropie	**Entropie**
+
+> L'entropie c'est le chaos, le hasard et la destruction incontrôlée.
+•        : (Percevoir)         : Détecter les failles, les points faibles, les points de rupture. Connaitre ses chances, les probabilité. Sentir le Wyrm.
+••      : (Altérer)              : Modifier les failles, l'organisation structurelle de quelque chose. Modifier des probabilité.
+•••    : (Détruire)            : Réparer, renforcer, Réduire les chances que quelque chose se produire à néant.
+••••  : (Créer)                 : Insérer le chaos, le cancer. Créer des coïncidences	Conseil des traditions	Mentor	
+> Un « ancien » s’intéresse à vous. 	Influence	Exemples:
+
+> Avec Politique[	Vous pouvez prendre cet historique plusieurs fois, chaque fois avec un domaine différents parmis:
+Politique, Economique, Médiatique, Scientifique, Spirituelle
+Pour chaque niveau d'influence, vous pourrez choisir une spécialité (et donc au niveau 5 vous posséderez toutes les spécialités)
+
+> Politique 
+En analogie avec les sphères de magye, il y a 5 niveaux d'action mensuelle:
+Perception, Altération mineure, Destruction, Création, Contrôle total.
+
+> Niveau
+Note: Vous pouvez aussi utiliser les effets des niveaux inférieurs aux votres.	Vie	**Vie**
+
+> Votre affinité avec les mécanismes du vivant, cette force qui anime et rend autonome les êtres.
+•        : (Percevoir)         : Etat de santé, détection de la maladie, sourcer le wyld.
+••      : (Altérer)              : Soigner ou rendre malade, empoisonner. Accélérer/ralentir les mitoses, les activités cellulaires.
+•••    : (Détruire)            : ôter la vie.
+••••  : (Créer)                 : Créer ex-nihilo la vie, rendre vivant.
+En combinaison: Permettre d'animer un effet magyque.	Statut	
+> Le respect, c’est important. Et ça tombe bien, on vous témoigne un certain respect dans votre organisation. 	Alliés	
+> Quand vous en avez besoin, vous savez que vous pouvez compter sur des gens, qu’ils soient des amis costauds, des personnes avec un bras suffisamment long pour vous faciliter la vie, des coursiers ou encore des esprits mineurs qui vous rendent service quand ils en ont envie. 	Technologie	**Technologie**
+Dans notre monde de nouvelles technologies, cette compétence est souvent indispensable. 
+Elle recouvre la connaissance pratique des gadgets technologiques qu’on trouve dans les pays développés. 
+La plupart des citadins ont un score au moins égal à 1 en Technologie, mais rarement plus de 3. 
+Grâce à cette capacité, le mage peut effectuer des opérations et des réparations simples. 	Bagarre	**Bagarre**
+Vous bottez des fondements. La vie vous a endurci et rendu vicieux, ou bien vous connaissez les bases de l’autodéfense. 
+Quoi qu’il en soit, vos poings et vos pieds sont des armes, pas nécessairement mortelles, mais bien plus efficaces que les coups hasardeux des petites brutes incompétentes. 
+Non seulement vous savez vous battre, mais en plus vous êtes naturellement doué pour ça. 
+Vous avez le talent, la volonté et l’entraînement nécessaires pour faire mal, et vous n’avez besoin de rien d’autre que la ruse de l’homme et la férocité de l’animal.	Raison	La **Raison** regroupe votre capacité à raisonner, à relier des faits ou des indices.
+C'est votre esprit d'analyse et de déduction.	Occultisme	**Occultisme**
+Les mages ne sont-ils pas occultes par nature ? Oui et non. 
+Cette connaissance représente le degré de compréhension d’un individu quant à la nature du monde mystique au sens où les Dormeurs l’entendent. 
+Autant dire que les données disponibles sont souvent trompeuses, incomplètes, voire totalement erronées. 
+Avec un score décent (au moins 3) dans cette capacité, vous arrivez à trouver la vérité dans l’énorme tas d’absurdités… mais vous avez aussi commencé à vous rendre compte à quel point le terrier du lapin blanc occulte était profond.
+Ce n’est pas pour rien que le mot « occulte » signifie caché.
+D’ailleurs, même les occultistes les plus talentueux en savent souvent moins qu’ils ne se l’imaginent. Être un mage ne vous confère pas automatiquement une compréhension claire d’autres traditions occultes.
+Au contraire, votre entendement supérieur a plutôt tendance à vous embrouiller encore un peu plus l’esprit ! 
+Cette capacité vous permet néanmoins d’acquérir un aperçu correct des pratiques, des philosophies et des coutumes mystiques, de leur histoire, des cultures magiques et d’autres domaines mystérieux. 
+Tous ces savoirs sont secrets par nature… du moins en théorie.	Dextérité	La **DEXTÉRITÉ**  regroupe votre habileté et votre minutie, la précision de vos actes.
+C'est aussi votre agilité et votre souplesse.	Esprits	**Esprits**
+
+> Sphère mystique qui vous rend familier avec les esprits de l'umbra, c'est à dire des entités qui sont issus des concepts collectifs.
+•        : (Percevoir)         : Détecter la présence d'esprits, savoir les reconnaitres.
+••      : (Altérer)              : Réussir à communiquer avec eux.
+•••    : (Détruire)            : Repousser un esprit, l'exiler.
+••••  : (Créer)                 : Invoquer un esprit.	Investigation	**Investigation**
+Vous levez le voile sur les mystères du monde quotidien. 
+Que vous soyez spécialisé en criminologie, expert dans la recherche d’informations sensibles ou versé dans les intrigues politiques, vous savez quoi chercher, où le trouver et comment reconstituer le puzzle quand ces données commencent à avoir un sens. 
+Votre méthode n’est peut-être pas très académique (disons que vous avez un goût prononcé pour les romans policiers), mais quoi qu’il en soit, vous maîtrisez le raisonnement déductif et des techniques de criminologie parfois avancées.
+Vous savez aussi établir des hypothèses logistiques et identifier des sources d’information potentielles. Associées à un instinct sûr et un excellent flair, vous êtes à même de transformer en conclusions possibles des données brutes.	Fausse identité	
+> On a parfois besoin de pouvoir disparaître en un clin d’œil. 	Mêlée	**Mêlée**
+Les armes sont des extensions de votre corps et vous savez les utiliser avec efficacité. 
+Quand vos poings ne suffisent pas, cette compétence vous donne l’avantage… ou l’instrument brutal dont vous avez besoin, puisqu’elle offre à votre personnage une connaissance pratique des armes blanches et de leurs effets en combat. 
+Certains groupes, tels que les gangs ou les cercles d’arts martiaux, prisent ces aptitudes. 
+Si vous comptez fréquenter ces milieux, ce trait est essentiel à votre crédibilité… et probablement aussi à votre survie.	Forces	**Forces**
+
+> L'ensemble des énergies qui animent les objets: l'énergie cinétique, potentielle, magnétique, nucléaire.
+•        : (Percevoir)         : Capter les forces, suivre le vent, connaitre la température.
+••      : (Altérer)              : Changement les propriétés d'une force en place, direction, intensité. Modifier la température, la gravité, accélérer/ralentir.
+•••    : (Détruire)            : La force quitte l'objet, comme en apesanteur.
+••••  : (Créer)                 : Télékynésie, Boule de feu, foudre, etc...	Médecine	**Médecine**
+Quand les gens s’esquintent, vous savez plus ou moins comment les rafistoler. 
+Avec un score de 1 ou 2 dans cette capacité, vous connaissez les gestes de premiers secours, alors qu’à plus haut niveau, vous avez quelques années de formation et de pratique (qui ne sont pas nécessairement le résultat d’une formation officielle et autorisée…). 
+Vous en savez assez sur les corps humains et humanoïdes pour traiter les blessures et les affections après avoir établi un diagnostic. 
+Cette compréhension est vitale quand un mage souhaite utiliser des pouvoirs de guérison magyques, et s’il se fâche, il peut devenir extrêmement dangereux !	Prime	**Prime**
+
+> Souvent surnommée "sphère de base", le Prime est l'énergie primale qui alimente l'éveillé pour réaliser son Art.
+•        : (Percevoir)         : Sentir le prime, détection du surnaturel, localiser les nodes, remonter les flux.
+••      : (Altérer)              : Modifier +/- un prodige, un node, un flux. Diminuer un effet magyque contre soi.
+•••    : (Détruire)            : Destruction d'un prodige, un node, un flux. Annuler un effet magyque contre soi. 
+••••  : (Créer)                 : Creation d'un prodige, un node, un flux.
+
+En combinaison: Allonge la durée de l'effet magyque.	Ressources	
+> N’importe quel représentant du Syndicat vous le dira, on peut se faire beaucoup de fric grâce à la magye - et vraiment beaucoup si vous jouez bien. 	Familier	
+> Les alliés animaux font toujours partie de l’arsenal mystique classique du mage. 	🌐 Internets			tests de bot	?backupChannels	79 channels backuped	?backupChannels	79 channels backuped	?backupChannels	95 channels backuped	?backupChannels	?backupChannels	?backupChannels	?backupChannels	?backupChannels	79 channels backuped	?backupChannels	?backupChannels	?backupChannels	Résultat: *2* succès ! 	||?test 5 6 (||<#ed0e3d87-0c2a-46d3-9b98-b5271f083fed>|| + ||<#6e655b44-4cb3-49d3-ac96-a15068369e98>||  Je cours de toutes mes forces !)||	Résultat: *3* succès ! 	||?test 5 6 (||<#ed0e3d87-0c2a-46d3-9b98-b5271f083fed>|| + ||<#6e655b44-4cb3-49d3-ac96-a15068369e98>||  Je cours de toutes mes forces !)||	Résultat: échec... 	||?test 5 6 (||<#ed0e3d87-0c2a-46d3-9b98-b5271f083fed>|| + ||<#6e655b44-4cb3-49d3-ac96-a15068369e98>||  Je cours de toutes mes forces !)||	Résultat: *1* succès ! 	||?test 5 6 (||<#ed0e3d87-0c2a-46d3-9b98-b5271f083fed>|| + ||<#6e655b44-4cb3-49d3-ac96-a15068369e98>||  Je cours de toutes mes forces !)||	Résultat: *4* succès ! (5, **6** , **8** , **10** , **10** )	?test 5 6	Résultat: *3* succès ! (4,5, **8** , **8** , **10** )	||?test 5 6 (||<#ed0e3d87-0c2a-46d3-9b98-b5271f083fed>|| + ||<#6e655b44-4cb3-49d3-ac96-a15068369e98>||  Je cours de toutes mes forces !)||	Résultat: *3* succès ! (4,5, **6** , **6** , **6** )	?test 5 6	Résultat: *3* succès ! (2,3, **9** , **9** , **9** )	?test 5 6	Résultat: *4* succès ! (3, **7** , **8** , **8** , **10** )	?test 5 6	Résultat: **ECHEC CRITIQUE** !!! (:1fumble:,:1fumble:,:1fumble:,4, **6** )	||?test 5 6 (||<#ed0e3d87-0c2a-46d3-9b98-b5271f083fed>|| + ||<#6e655b44-4cb3-49d3-ac96-a15068369e98>||  Je cours de toutes mes forces !)||	Résultat: *4* succès ! (3, **6** , **6** , **8** , **10** )	||?test 5 6 (||<#ed0e3d87-0c2a-46d3-9b98-b5271f083fed>|| + ||<#6e655b44-4cb3-49d3-ac96-a15068369e98>||  Je cours de toutes mes forces !)||	Résultat: *1* succès ! (:1fumble:,:1fumble:, **6** , **6** , **7** )	||?test 5 6 (||<#ed0e3d87-0c2a-46d3-9b98-b5271f083fed>|| + ||<#6e655b44-4cb3-49d3-ac96-a15068369e98>||  Je cours de toutes mes forces !)||	Résultat: *2* succès ! (2,3,3, **6** , **9** )	||?test 5 6 (||<#ed0e3d87-0c2a-46d3-9b98-b5271f083fed>|| + ||<#6e655b44-4cb3-49d3-ac96-a15068369e98>||  Je cours de toutes mes forces !)||	Résultat: *3* succès ! (:1fumble:, **6** , **6** , **9** , **10** )	||?test 5 6 (||<#ed0e3d87-0c2a-46d3-9b98-b5271f083fed>|| + ||<#6e655b44-4cb3-49d3-ac96-a15068369e98>||  Je cours de toutes mes forces !)||	Résultat: *2* succès ! (5,5,5, **6** , **9** )	?test 5 6 (<#ed0e3d87-0c2a-46d3-9b98-b5271f083fed> + <#6e655b44-4cb3-49d3-ac96-a15068369e98>  Je cours de toutes mes forces !)	Résultat: *5* succès ! ( **7** , **7** , **7** , **9** , **9** )	?test 5 6 (
+Force
+ + 
+Athlétisme
+ Je cours de toutes mes forces !)	Résultat: échec... (:1fumble:,:1fumble:,2, **7** , **7** )	?test 5 6 (<#ed0e3d87-0c2a-46d3-9b98-b5271f083fed> + <#6e655b44-4cb3-49d3-ac96-a15068369e98>  Je cours de toutes mes forces !)	Résultat: *5* succès ! (:1fumble:,3,3, **6** , **6** , **7** , **9** , **9** , **10** )Informatique	**Informatique**
+Cette capacité reflète votre compréhension de cet outil. Avec un score de 1, quelle que soit l’année qui sert de cadre à votre histoire, vous connaissez les commandes de base. 
+À plus haut niveau, vous saisissez plus précisément le fonctionnement des composantes, des logiciels, des interfaces, d’internet et de la culture des technologies de l’information en général. 
+Vous devez posséder au moins 3 ou 4 points en Informatique pour effectuer de la programmation avancée ou réparer du matériel informatique, mais aussi pour comprendre des systèmes particuliers tels que la technologie ésotérique des technomanciens.
+Tous les mages qui utilisent les ordinateurs en tant qu’instruments de focus sont soumis à la règle suivante : pour canaliser l’effet d’une sphère grâce à l’outil informatique, le personnage doit avoir un score en Informatique au moins égal à celui de la sphère concernée. 
+Par exemple, si Max n’a qu’un score de 1 en Informatique, il ne peut pas utiliser d’effets de sphère de niveau deux ou plus avec un ordinateur, tout simplement parce que ses connaissances dans ce domaine sont insuffisantes. 	Art	**Art**
+Également connu sous le nom d’expression artistique, ce talent représente votre maîtrise de l’art sous une forme ou une autre : dessin, chant, comédie, littérature, peinture, danse, sculpture, etc. 
+Grâce à ce don, vous produisez des œuvres à la puissance surprenante.
+Choisissez votre style pour donner vie à des représentations réalistes, des hyperboles captivantes ou des créations avant-gardistes expérimentales. 
+Avec un score élevé, vous serez capable de bouleverser votre public et de lui donner l’impression de toucher du doigt une vérité absolue, même si vos œuvres ne sont pas figuratives.
+Comme pour d’autres capacités générales, chaque spécialité représente un champ d’expression artistique à part entière. 
+Si vous voulez maîtriser un nouveau domaine (danse, peinture, etc.), vous devez donc acquérir une autre spécialité. 
+Néanmoins, comme les principes de base de l’art demeurent identiques malgré des techniques différentes, chaque spécialité supplémentaire ne vous coûtera que 4 points d’expérience. 
+Pour bénéficier de cette règle, vous devez avoir un score de 4 en Art et une première spécialité.	Sondages		Général (hors jeu)	<@4oMJepwm> a rejoint ce plan de la réalité
+Soyez le bienvenu ici !
+Entrez ici de votre plein gré et laissez y un peu la foi que vous y apportez...		5, 9, 7	?roll 3d10	candyman	candyman	candyman	?repeat 3 candyman	<@4WP0JYEd> has joined the server. Welcome!	||test||	candyman	candyman	candyman	?repeat 3 candyman	pierre	?choose papier pierre ciseau	8	?add 3 5	?add 3,5	?roll 3d6	2, 1, 4	?roll 3d6	No, roll(3d6) is not cool	?cool roll(3d6)	No, roll("3d6") is not cool	?cool roll("3d6")	Yes, the bot is cool.	?cool bot	No, None is not cool	?cool	?cool	?cool bot	?cool.bot	?cool>bot	roll("3d6")	?roll('3d6')	roll(3d6)	?roll(3d6)	?_bot	No, None is not cool	?cool	?bot	?cool	?add(3,4)	No, None is not cool	?cool	d6	?d6	!bot	?botÉsotérisme	**Ésotérisme**
+Le savoir ésotérique englobe des domaines divers et variés comme l’astrologie, l’angélologie, la divination, le yoga, l’herboristerie, la démonologie, la connaissance des pierres, et même le langage énigmatique des sociétés secrètes. 
+Pendant des siècles, ces mystères étaient l’apanage d’une poignée d’initiés, alors que de nos jours, il est facile d’en dénicher les bases dans une bonne librairie ou sur internet. 
+Vous devrez néanmoins vous consacrer entièrement aux études ésotériques pour accéder à des connaissances plus spécifiques, souvent obscures. 
+N’importe qui peut suivre des cours de yoga, mais l’application de ses principes cabalistiques requiert des années de pratique, d’étude et de dévouement.
+En termes de jeu, l’ésotérisme représente votre étude de la discipline, et vous servira probablement de pratique et d’instrument de focus. 
+La valeur de ce trait quantifie votre connaissance globale des sujets magiques, tandis que les spécialités représentent votre expertise dans certains domaines. 
+Au contraire de l’Occultisme, qui montre votre compréhension de l’histoire et des sociétés secrètes, l’Ésotérisme est l’application pratique de votre savoir dans des domaines inhabituels. 
+Ainsi, l’Occultisme vous permet d’apprendre qui était Aleister Crowley, tandis que l’Ésotérisme vous aide à découvrir ce qu’il a accompli et à mettre à profit ce savoir. 
+Notez que ce trait regroupe en un seul nombre de capacités qui apparaissaient dans les éditions précédentes.	Renommée	
+> Renommée	Vigilance	**Vigilance**
+Votre sixième sens vous permet de sentir ce qui ne va pas bien avant tout le monde. 
+Cette combinaison d’instinct naturel et de vivacité d’esprit vous aide à évaluer les situations et à y réagir convenablement.	Artisanats	**Artisanats**
+Vous savez comment créer et réparer des objets de vos mains. 
+À force de pratique dans une branche, voire plusieurs, vous maîtrisez les techniques spécifiques de la charpenterie, de la mécanique, du travail du cuir, de la métallurgie ou de n’importe quel autre artisanat.
+Quand vous choisissez cette compétence, vous devez définir une spécialité qui représentera l’activité principale de votre personnage, et ce même s’il n’a pas encore un score de 4 en Artisanats. 
+Elle lui conférera le bonus associé une fois ce score atteint. 
+Si vous souhaitez que votre mage maîtrise plusieurs domaines d’Artisanat, vous devez les acquérir séparément. 	Etiquette	**Étiquette**
+Les conventions sociales sont votre fort. Vous savez faire bonne impression grâce à vos manières civilisées et à votre sens du contact.
+Étant donné les stratagèmes élaborés et les attentes extravagantes de certains milieux (sans compter les coutumes locales des cultures étrangères), vous disposez d’un avantage précieux quand il s’agit de négocier, séduire ou faire preuve de diplomatie. 
+Et comme ces conventions excluent souvent tout le monde sauf « les bonnes personnes », l’Étiquette permet de s’inviter dans tous les rendez-vous, même les plus importants.	Survie	**Survie**
+À l’ère de la consommation de masse, peu de gens pourraient se débrouiller sans un supermarché à proximité. 
+Ce n’est pas votre cas. Vos connaissances et votre instinct animal vous aident à trouver de l’eau, de la nourriture, un abri, et une relative sécurité. 
+Vous connaissez bien la nature ou les friches urbaines, et parvenez à éviter leurs dangers assez longtemps pour rester en vie. Pour le moment…
+Vous pouvez utiliser des compétences de survie très basiques dans presque tous les environnements. 
+En revanche, pour résister à des conditions extrêmes ou des atmosphères étranges, vous devez acquérir des spécialités adéquates. 
+Par exemple, faire de la randonnée régulièrement ne vous aidera pas à sortir vivant de la Vallée de la Mort ou du centre-ville de Bombay. 	Manipulation	**Manipulation** 
+*(Note: élargissement de la comp Politique suite à disparition de manipulation en tant qu'attribut)*
+Le pouvoir politique a l’air parfois magique. 
+En glissant quelques mots à l’oreille de la bonne personne ou en remplissant correctement un formulaire, vous pouvez faire disparaître quelqu’un, changer une identité ou provoquer des scandales. 
+Vous faites et défaites les rois. 
+Certains mages (Technocrates, Hermétiques, Extatiques et Adeptes du Virtuel en tête) trouvent que ce pouvoir est bien plus efficace qu’un vulgaire sort. 
+À l’ère de la mondialisation, lancer des éclairs fait bien piètre figure comparé à la capacité à provoquer une émeute… ou un coup d’État.
+Grâce à la Politique, issue d’un mot grec signifiant « ce qui a trait à la cité », votre personnage tire les ficelles du pouvoir à travers les agences gouvernementales et les célébrités publiques. 
+Cette connaissance regroupe un certain nombre de traits, indépendants dans les éditions précédentes, pour représenter l’influence globale exercée sur le monde civil.	Expression	**Expression**
+La vie est une immense tapisserie dont vous tissez les fils. 
+Grâce à votre sens de la mise en scène et à votre connaissance de la psychologie du public, vous êtes capable de susciter des émotions et de manipuler l’opinion et d’attirer l’attention en société. 
+Bien qu’on puisse utiliser ce trait pour n’importe quelle interaction humaine, il sert surtout à marquer son auditoire.	Perception	La **PERCEPTION** est votre capacité à ressentir le monde qui vous entoure.
+Cela regroupe évidemment les cinq sens populaires, mais aussi votre instinct, et tous les capteurs sensoriels moins connus !	Idées vrac from IRL	https://www.youtube.com/watch?v=QPRz1FkoOg4	Sillicon Valley - Narration	Méditation	**Méditation**
+Concentration, respiration, relaxation. Cette compétence vous permet d’ignorer le brouhaha de la vie quotidienne et de trouver la paix intérieure. 
+Les pratiques varient d’un individu à l’autre selon son style favori, son passé et le but de ses séances méditatives. 
+Ces dernières peuvent ressembler à de simples moments de calme et de silence, mais certains adeptes n’hésitent pas à y ajouter des postures élaborées, des exercices de contrôle de la respiration, des dévotions religieuses, voire des danses et des prières extatiques.	Yosemite - Narration				Golden Gate - Narration	Matière	**Matières**
+
+> Sphère qui décrit votre affinité avec le monde matériel, les substances.
+•        : (Percevoir)         : Distinguer matériau, en connaître les propriétés.
+••      : (Altérer)              : Modification des propriétés du matériau, comme sa couleur, rigidité, son état.
+•••    : (Détruire)            : Annihilation de la matière.
+••••  : (Créer)                 : Creation ex-nihilo d'une masse de matière.	Subterfuge	**Subterfuge**
+Vous savez comment gagner la confiance des gens et en profiter. 
+En outre, vous repérez aisément ceux qui tentent de vous faire la même chose. 
+Vous utilisez vos pouvoirs pour faire le bien… mais probablement pas. 
+Ce talent est LE secret pour débusquer les balances, dénicher les ragots, monter des arnaques et renifler les escrocs. 
+Il vous permet de contourner les barrières de la société, de découvrir ce que veulent les gens et puis de les appâter. 
+Vous n’avez pas besoin de vraiment mentir, mais disons simplement que vous êtes vraiment bon pour arranger la vérité.	Commandement	**Commandement**
+Ce talent permet de contrôler les gens plus subtilement. 
+Votre aura d’autorité, vos ordres persuasifs, votre détermination sans faille, ou simplement le bon mot au bon moment, les poussent à vous suivre.
+Dès que vous aboyez, tout le monde obéit. 
+Pas parce qu’ils vous respectent, mais au minimum parce qu’ils admettent à contrecœur, que vous avez l’air de savoir ce que vous faites… même quand ce n’est pas le cas !	Alcatraz - Narration	Sciences	**Sciences**
+Ce petit mot qui regroupe tant d’idées est issu du verbe latin signifiant « savoir ». 
+En termes de jeu, le trait reflète la compréhension des principes scientifiques, ainsi que la connaissance de l’histoire scientifique, de l’avancée des recherches et de leurs applications.
+Tous les Technocrates et les technomanciens doivent y investir quelques points. 
+D’ailleurs, la majorité d’entre eux possède un score élevé dans cette capacité. 
+On considère qu’à notre époque, les gens normaux ont un score au moins égal à 1 en Sciences. Même si vous croyez en Dieu ou dans la magye, rien ne vous empêche d’envisager la science comme une approche acceptable de la réalité. 
+Lorsque vous choisissez ce trait, vous acquérez une compréhension des principes scientifiques courants les plus simples, ainsi qu’une spécialisation. 
+Un score élevé reflète des connaissances approfondies dans plusieurs disciplines, et en particulier dans la spécialité que vous aurez choisie. Comme pour l’Artisanat, vous devez définir un champ de compétence scientifique principal. 
+Vous pourrez ensuite acheter des spécialités supplémentaires qui correspondront à d’autres sciences. Un scientifique bien formé peut couvrir un large éventail de domaines d’application.	Charte de comportement		Ce serveur est une plateforme de jeu de rôle basé sur le jeu Mage (20e anniversaire édition) **modifié**.
+Pour prétendre à rejoindre le jeu, vous devez mettre une réaction emoji :ok:  (en cliquant tout en bas de ce message), pour "signer" la présente charte.
+
+__**Sur vous:**__
+__**Sur le système de chat:**__
+__**De joueurs à joueurs (hors jeu):**__
+__**De personnage à personnage (en jeu):**__
+__**Sécu Émotionelle**__:
+
+> Ex: [Je ne souhaites pas que tu détaille comment tu as torturé Michel, on peut passer à la suite stp ?]
+
+
+__**Réprimandes**__:	Node	
+> Dans un monde où la magye semble rare, vous avez accès à un véritable miracle de la nature, un node. 	Expérience de la rue	**Expérience de la rue**
+La rue, c’est chez vous, et vous connaissez bien votre famille. 
+Les gens qui ne parlent à personne en temps normal s’ouvrent à vous. 
+Vous avez certainement grandi dans ce milieu, aussi comprenez-vous les codes et les règles en vigueur dans cet univers en marge de la loi. 
+Vous avez quelques atouts dans votre manche (crochetage, recel, vol à l’étalage), vous savez comment parler et vous comporter, et vous êtes à l’aise dans des endroits où les flics et les gentils n’osent pas s’aventurer.	Furtivité	**Furtivité**
+La Furtivité est atout vital pour ceux qui veulent fureter sans se faire remarquer. 
+Elle vous permet de vous déplacer en silence, de tirer parti de votre environnement et de repérer les dangers potentiels avant qu’ils ne fassent sauter votre couverture.	Mémoire	La **Mémoire** c'est votre stockage interne dans votre cerveau disque-dur.
+Comment vous ranger les informations, et comment vous y accéder: savoir emmagasiner, digérer, trier, classer pour ressortir une information.	Charisme	Le **CHARISME** c'est votre aisance sociale, elle sert à parler et plaire à autrui.	L'union des conventions	Sheet template tests			 <#ed0e3d87-0c2a-46d3-9b98-b5271f083fed> : •••   
+   Dextérité : •
+Perception : •••
+   Charisme : ••		Contacts	
+> Vous connaissez des gens qui savent des choses, et même s’ils ne sont pas aussi fiables que des Alliés, ils vous aident à dénicher des informations, faire passer des messages, tirer les ficelles et rendre de petits services (par exemple, des billets pour un concert déjà complet, un appartement au loyer imbattable ou un rendez-vous avec le chef de la police locale). 	Érudition	**Érudition**
+Malgré les défauts du système éducatif, les mages ne peuvent pas se permettre de rester ignares. 
+Qu’ils soient autodidactes, particulièrement brillants ou scolarisés dans un établissement prestigieux, la majorité des Éveillés possède un niveau d’étude très élevé.
+Cette Connaissance dénote votre savoir dans les matières académiques comme les langues étrangères, les mathématiques ou l’histoire. 
+Selon un principe semblable à celui de l’Artisanat, vous devez choisir une spécialité principale. 
+En outre, ce trait reflète vos compétences générales dans les domaines universitaires, même s’ils ne sont pas en lien direct avec votre sujet d’étude principal. 
+Même si tout mage qui se respecte devrait avoir un score au moins égal à 1 en Érudition, de nombreux groupes (en particulier les Hermétiques, les Éthéristes, les Solificati et les diverses branches de la Technocratie) prônent les vertus d’une éducation très poussée.	Prodige	
+> Qu’est-ce qu’un Prodige ? 	Armes à feu	**Armes à feu**
+Vous kiffez les armes à feu. 
+Vous n’êtes peut-être pas un tireur d’élite, mais vous savez au moins comment entretenir votre arme et vous en servir. 
+Un personnage qui possède un score au moins égal à 2 dans cette compétence sait reconnaître les calibres et les types de munitions. 
+Il connaît également les avantages et les inconvénients des modèles et des marques sur le marché.	Conduite	**Conduite**
+Les voitures ? Ça vous connaît. Peut-être que les camions, ça vous connaît aussi. 
+Cette compétence mesure la complexité des opérations que vous pouvez réaliser avec un véhicule. 
+Un score élevé signale un as du volant. 
+Avec un seul point, vous savez conduire une voiture équipée d’une boîte automatique. 
+Plus vous développez cette compétence, plus le nombre de véhicules que vous savez piloter est important. 
+Conduire dans des conditions normales ne requiert pas de jet particulier. 
+En revanche, si vous vous retrouvez coincé dans une course, une poursuite ou une situation tendue, mieux vaut avoir quelques points sur lesquels s’appuyer. 
+Sinon, vous risquez de vous esquinter…	Guilded tips		Pour faire un avatar talk: faire reply et cocher le petit oeil (whisper system)
+Attention, les annoncements ont un titre (bold mandatory), pas le simple channel !	Intimidation	**Intimidation**
+Votre seule présence fait peur aux gens et vos menaces (si tant est que vous ayez besoin d’en faire) n’arrangent rien. 
+Quand vous le voulez, vous dominez presque toujours la situation, car vous savez inconsciemment comment prendre l’ascendant, ou appuyer là où ça fait mal. 
+À moins que vous ne soyez simplement assez grand, assez mauvais ou assez « rien à secouer » pour pousser les autres à se soumettre. 
+Quel que soit votre secret, ce talent vous donne l’avantage quand vous faites face à des êtres humains, des animaux ou des entités d’une autre nature.	Recherche	**Recherche**
+Même si ce n’est pas glamour, en tant que mage, vous devez apprendre à trouver des renseignements. 
+Cette compétence vous aide à chercher des sources d’information dans des bibliothèques publiques, des archives privées, des collections occultes, des pages internet ou des connaissances transmises oralement. 
+Elle permet aussi de dénicher la donnée dont vous avez besoin au milieu de tous ces documents. Toutefois, vous ne trouverez pas toujours l’information précise que vous avez en tête, car certaines sources sont conservées dans des lieux très spécifiques. 
+Un jet de Recherche réussi peut quand même vous mettre sur la bonne piste, même si des parts d’ombre subsistent.	Psyché	**Psyché**
+
+> Sphère de compréhension de la conscience, humaine et autre. La sentience, le libre arbitre.
+•        : (Percevoir)         : Détecter les troubles du comportement, les folies et dérangements, Psychanalyser.
+••      : (Altérer)              : Modifier, amplifier ou diminuer les dérangements chez l'interlocuteur.
+•••    : (Détruire)            : Lobotomiser, rendre à l'état de légume.
+••••  : (Créer)                 : Créer une conscience, rendre sentient. Parler à un animal.	Droit	**Droit**
+La loi, ce n’est sans doute pas vous, mais vous connaissez ses rouages.
+Aucun élément du système judiciaire local ne vous échappe ; le rôle du commissariat, les procédures de police, les grades, les vices de procédure… vous maîtrisez. 
+Bien évidemment, chaque pays a sa propre organisation. 
+Votre connaissance de la police de La Nouvelle-Orléans ne vous aidera pas beaucoup à Tokyo. 
+Heureusement, tous les départements de police modernes ont des similitudes, et cette capacité vous permettra donc d’en comprendre les méandres, et ce même si la difficulté de l’action est beaucoup plus élevée.	Volonté	La **VOLONTÉ** d'un personnage regroupe sa détermination, son envie d'agir.
+C'est le moteur inhérent à toute prise de décision.	Downtown - Narration	Force	**Force [1]**: Vous êtes dans frêle, faible et famélique.
+Il vous est difficile de faire un effort, et il ne dure pas longtemps.		La **FORCE** est à la fois la puissance physique du personnage, 
+mais aussi son endurance, sa résistance à la douleur, sa santé physique.	Nom du Personnage			Rang	
+> Vous vous démarquez du commun des mortels grâce à la position que vous occupez : officier dans l’armée, ministre du Culte, cadre dans une puissante multinationale, ou une position influente similaire. 	Culte	
+> N’importe quel mage doté d’un minimum de charisme a des amis.	general	?bot	?add(3,4)	?bot	add(3,4)	!bot	d6	bot	Rules:
+https://support.guilded.gg/hc/en-us/articles/360039728313-Terms-of-use	normal sentence	Test de thread	https://docs.google.com/spreadsheets/d/1OqHpgdIi0bacDb0f5LA2h1t1wwpr__xhgf5KU7tkhac/edit?hl=en_US&hl=en_US#gid=0	test:	C'est ici que l'on échange pour les secrets de la KRONIK !	Habitations victoriennes - Narration	Arts martiaux	**Arts martiaux**
+Pratiqué depuis la nuit des temps, l’art complexe du combat à mains nues se décline en centaines de disciplines, du brutal pancrace grec au sublime tai-chi. 
+Vous pratiquez une ou plusieurs d’entre elles, et vos techniques de combat sont bien plus efficaces.
+En termes de jeu, la compétence Arts martiaux reflète une maîtrise durement acquise dans une forme de combat. 
+Comme ce trait demande un entraînement intensif, des techniques particulières, de la rigueur et le respect d’une philosophie de vie, seuls les spécialistes de la compétence choisie peuvent en enseigner les secrets. 
+Un pratiquant aguerri peut également canaliser des effets magyques par le biais de cette discipline ; il sera entre autres capable d’infliger des frappes dévastatrices, d’utiliser des techniques de guérison et de se servir de pouvoirs basés sur la Psyché. 
+ Comme les arts martiaux ont des applications scientifiques et font pleinement partie de la réalité acceptée, les membres de la Technocratie n’hésitent pas à y recourir. 
+Après tout, si elles sont bonnes pour l’agent Smith, tout bon Technocrate a le droit de faire de même !
+Lorsqu’un mage utilise les arts martiaux en tant que pratique ou instrument de son focus magyque, il doit avoir au moins un point en Arts martiaux pour chaque point qu’il possède dans la plus haute sphère impliquée dans son effet. 	Espace	**Espace**
+
+> Votre compréhension de la collocalisation: tout l'espace est réduit à un seul point, tout est situé au même "endroit".
+•        : (Percevoir)         : Evaluer la distance, la taille, les proportions. Vigilance accrue, s'orienter, connaitre le nord.
+••      : (Altérer)              : Accélérer ou ralentir un objet en mouvement.
+•••    : (Détruire)            : Faire des portails de déplacement, Perdre définitivement un objet.
+••••  : (Créer)                 : Téléportation, Télékynésie, ubiquité.
+En combinaison: Permettre de choisir où se passe l'effet magyque.	Temps	**Temps**
+
+> La sphère du temps: où l'on comprend que tout se passe au même moment. Passé, futur n'est qu'illusion.
+•        : (Percevoir)         : Savoir précisément l'heure qu'il est, ne pas ressentir l'ennui, visions.
+••      : (Altérer)              : Rajeunir, vieillir, modification de la vitesse.
+•••    : (Détruire)            : Mettre en stase, figer.
+••••  : (Créer)                 : Téléportation limitée. Vieillir/rajeunir les choses.
+En combinaison: Permettre de choisir le moment de l'effet magyque.	

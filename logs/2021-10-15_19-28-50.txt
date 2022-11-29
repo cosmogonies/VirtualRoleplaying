@@ -1,0 +1,212 @@
+Defaulting to user installation because normal site-packages is not writeable
+Requirement already satisfied: discord.py in ./.local/lib/python3.9/site-packages (1.7.3)
+Requirement already satisfied: aiohttp<3.8.0,>=3.6.0 in ./.local/lib/python3.9/site-packages (from discord.py) (3.7.4.post0)
+Requirement already satisfied: chardet<5.0,>=2.0 in ./.local/lib/python3.9/site-packages (from aiohttp<3.8.0,>=3.6.0->discord.py) (4.0.0)
+Requirement already satisfied: attrs>=17.3.0 in ./.local/lib/python3.9/site-packages (from aiohttp<3.8.0,>=3.6.0->discord.py) (21.2.0)
+Requirement already satisfied: typing-extensions>=3.6.5 in ./.local/lib/python3.9/site-packages (from aiohttp<3.8.0,>=3.6.0->discord.py) (3.10.0.2)
+Requirement already satisfied: multidict<7.0,>=4.5 in ./.local/lib/python3.9/site-packages (from aiohttp<3.8.0,>=3.6.0->discord.py) (5.2.0)
+Requirement already satisfied: yarl<2.0,>=1.0 in ./.local/lib/python3.9/site-packages (from aiohttp<3.8.0,>=3.6.0->discord.py) (1.6.3)
+Requirement already satisfied: async-timeout<4.0,>=3.0 in ./.local/lib/python3.9/site-packages (from aiohttp<3.8.0,>=3.6.0->discord.py) (3.0.1)
+Requirement already satisfied: idna>=2.0 in /usr/lib/python3/dist-packages (from yarl<2.0,>=1.0->aiohttp<3.8.0,>=3.6.0->discord.py) (2.6)
+WARNING: You are using pip version 21.2.4; however, version 21.3 is available.
+You should consider upgrading via the '/usr/bin/python3.7 -m pip install --upgrade pip' command.
+Logged in as altereal.bot (ID: 4WP0JYEd)
+------
+'=========='
+'Phedre'
+'altereal'
+'found the newly created forum !'
+Help on ForumChannel in module guilded.channel object:
+
+class ForumChannel(guilded.abc.TeamChannel)
+ |  ForumChannel(**fields)
+ |  
+ |  Represents a forum channel in a team.
+ |  
+ |  Method resolution order:
+ |      ForumChannel
+ |      guilded.abc.TeamChannel
+ |      builtins.object
+ |  
+ |  Methods defined here:
+ |  
+ |  __init__(self, **fields)
+ |      Initialize self.  See help(type(self)) for accurate signature.
+ |  
+ |  async create_topic(self, *content, **kwargs) -> guilded.channel.ForumTopic
+ |      |coro|
+ |      
+ |      Create a new topic in this forum.
+ |      
+ |      Parameters
+ |      ------------
+ |      content: Any
+ |          The content to create the topic with.
+ |      title: :class:`str`
+ |          The title to create the topic with.
+ |      
+ |      Returns
+ |      --------
+ |      :class:`.ForumTopic`
+ |          The topic that was created.
+ |  
+ |  async fetch_topic(self, id: int) -> guilded.channel.ForumTopic
+ |      |coro|
+ |      
+ |      Fetch a topic from this forum.
+ |      
+ |      Parameters
+ |      -----------
+ |      id: :class:`int`
+ |          The topic's ID.
+ |      
+ |      Returns
+ |      --------
+ |      :class:`.ForumTopic`
+ |          The topic by its ID.
+ |  
+ |  async fetch_topics(self, *, limit: int = 50, page: int = 1, before: datetime.datetime = None) -> List[guilded.channel.ForumTopic]
+ |      |coro|
+ |      
+ |      Fetch the topics in this forum.
+ |      
+ |      All parameters are optional.
+ |      
+ |      Parameters
+ |      -----------
+ |      limit: :class:`int`
+ |          The maximum number of topics to return. Defaults to 50.
+ |      before: :class:`datetime.datetime`
+ |          The latest date that a topic can be from. Defaults to the current
+ |          time.
+ |      
+ |      Returns
+ |      --------
+ |      List[:class:`.ForumTopic`]
+ |          The topics in this forum.
+ |  
+ |  get_topic(self, id)
+ |      Optional[:class:`.ForumTopic`]: Get a topic by its ID.
+ |  
+ |  async getch_topic(self, id: int) -> guilded.channel.ForumTopic
+ |  
+ |  ----------------------------------------------------------------------
+ |  Readonly properties defined here:
+ |  
+ |  topics
+ |  
+ |  ----------------------------------------------------------------------
+ |  Data and other attributes defined here:
+ |  
+ |  __abstractmethods__ = frozenset()
+ |  
+ |  ----------------------------------------------------------------------
+ |  Methods inherited from guilded.abc.TeamChannel:
+ |  
+ |  __eq__(self, other)
+ |      Return self==value.
+ |  
+ |  __repr__(self)
+ |      Return repr(self).
+ |  
+ |  __str__(self)
+ |      Return str(self).
+ |  
+ |  async delete(self)
+ |      |coro|
+ |      
+ |      Delete this channel.
+ |  
+ |  ----------------------------------------------------------------------
+ |  Readonly properties inherited from guilded.abc.TeamChannel:
+ |  
+ |  guild
+ |  
+ |  mention
+ |  
+ |  team
+ |  
+ |  topic
+ |  
+ |  vanity_url
+ |  
+ |  ----------------------------------------------------------------------
+ |  Data descriptors inherited from guilded.abc.TeamChannel:
+ |  
+ |  __dict__
+ |      dictionary for instance variables (if defined)
+ |  
+ |  __weakref__
+ |      list of weak references to the object (if defined)
+ |  
+ |  ----------------------------------------------------------------------
+ |  Data and other attributes inherited from guilded.abc.TeamChannel:
+ |  
+ |  __hash__ = None
+
+None
+['__abstractmethods__',
+ '__class__',
+ '__delattr__',
+ '__dict__',
+ '__dir__',
+ '__doc__',
+ '__eq__',
+ '__format__',
+ '__ge__',
+ '__getattribute__',
+ '__gt__',
+ '__hash__',
+ '__init__',
+ '__init_subclass__',
+ '__le__',
+ '__lt__',
+ '__module__',
+ '__ne__',
+ '__new__',
+ '__reduce__',
+ '__reduce_ex__',
+ '__repr__',
+ '__setattr__',
+ '__sizeof__',
+ '__str__',
+ '__subclasshook__',
+ '__weakref__',
+ '_abc_impl',
+ '_state',
+ '_team',
+ '_topics',
+ 'added_at',
+ 'archived_at',
+ 'archived_by',
+ 'archived_by_webhook_id',
+ 'auto_archive_at',
+ 'create_topic',
+ 'created_at',
+ 'created_by_webhook_id',
+ 'delete',
+ 'description',
+ 'fetch_topic',
+ 'fetch_topics',
+ 'get_topic',
+ 'getch_topic',
+ 'group',
+ 'group_id',
+ 'guild',
+ 'id',
+ 'mention',
+ 'name',
+ 'parent',
+ 'parent_id',
+ 'position',
+ 'public',
+ 'roles_synced',
+ 'settings',
+ 'slug',
+ 'team',
+ 'team_id',
+ 'topic',
+ 'topics',
+ 'type',
+ 'updated_at',
+ 'vanity_url']

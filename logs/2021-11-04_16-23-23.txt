@@ -1,0 +1,107 @@
+Defaulting to user installation because normal site-packages is not writeable
+Requirement already satisfied: discord.py in ./.local/lib/python3.9/site-packages (1.7.3)
+Requirement already satisfied: aiohttp<3.8.0,>=3.6.0 in ./.local/lib/python3.9/site-packages (from discord.py) (3.7.4.post0)
+Requirement already satisfied: async-timeout<4.0,>=3.0 in ./.local/lib/python3.9/site-packages (from aiohttp<3.8.0,>=3.6.0->discord.py) (3.0.1)
+Requirement already satisfied: multidict<7.0,>=4.5 in ./.local/lib/python3.9/site-packages (from aiohttp<3.8.0,>=3.6.0->discord.py) (5.2.0)
+Requirement already satisfied: attrs>=17.3.0 in ./.local/lib/python3.9/site-packages (from aiohttp<3.8.0,>=3.6.0->discord.py) (21.2.0)
+Requirement already satisfied: typing-extensions>=3.6.5 in ./.local/lib/python3.9/site-packages (from aiohttp<3.8.0,>=3.6.0->discord.py) (3.10.0.2)
+Requirement already satisfied: yarl<2.0,>=1.0 in ./.local/lib/python3.9/site-packages (from aiohttp<3.8.0,>=3.6.0->discord.py) (1.6.3)
+Requirement already satisfied: chardet<5.0,>=2.0 in ./.local/lib/python3.9/site-packages (from aiohttp<3.8.0,>=3.6.0->discord.py) (4.0.0)
+Requirement already satisfied: idna>=2.0 in /usr/lib/python3/dist-packages (from yarl<2.0,>=1.0->aiohttp<3.8.0,>=3.6.0->discord.py) (2.6)
+WARNING: You are using pip version 21.2.4; however, version 21.3.1 is available.
+You should consider upgrading via the '/usr/bin/python3.7 -m pip install --upgrade pip' command.
+Logged in as altereal.bot (ID: 4WP0JYEd)
+------
+server has 109 channels.
+'<ChannelType.media> 🚻 Portraits'
+"<ChannelType.announcement> Télévision (Chaines d'info)"
+"<ChannelType.announcement> Télévision (Chaines d'info) with 0 announcements."
+'<ChannelType.chat> 🌐 Darknet'
+'<ChannelType.chat> 🌐 Darknet with 2 messages.'
+'<ChannelType.chat> Comment écrire'
+'<ChannelType.chat> Comment écrire with 5 messages.'
+'<ChannelType.announcement> 📜 Mage@Zine'
+'<ChannelType.announcement> 📜 Mage@Zine with 1 announcements.'
+'<ChannelType.chat> Empathie'
+'<ChannelType.chat> Empathie with 2 messages.'
+'<ChannelType.chat> Athlétisme'
+'<ChannelType.chat> Athlétisme with 3 messages.'
+'<ChannelType.chat> Entropie'
+'<ChannelType.chat> Entropie with 2 messages.'
+'<ChannelType.announcement> Golden Gate - Description'
+'<ChannelType.announcement> Golden Gate - Description with 0 announcements.'
+'<ChannelType.chat> Conseil des traditions'
+'<ChannelType.chat> Conseil des traditions with 1 messages.'
+'<ChannelType.doc> Règles'
+'<ChannelType.announcement> Chronique présentation'
+'<ChannelType.announcement> Chronique présentation with 1 announcements.'
+'<ChannelType.chat> Mentor'
+'<ChannelType.chat> Mentor with 2 messages.'
+'<ChannelType.chat> Influence'
+'<ChannelType.chat> Influence with 3 messages.'
+'<ChannelType.announcement> Habitations victoriennes - Description'
+('<ChannelType.announcement> Habitations victoriennes - Description with 0 '
+ 'announcements.')
+'<ChannelType.chat> Vie'
+'<ChannelType.chat> Vie with 2 messages.'
+'<ChannelType.chat> Statut'
+'<ChannelType.chat> Statut with 2 messages.'
+'<ChannelType.chat> Alliés'
+'<ChannelType.chat> Alliés with 2 messages.'
+'<ChannelType.forum> forum'
+'<ChannelType.chat> Technologie'
+'<ChannelType.chat> Technologie with 2 messages.'
+'<ChannelType.chat> Bagarre'
+'<ChannelType.chat> Bagarre with 2 messages.'
+'<ChannelType.chat> Raison'
+'<ChannelType.chat> Raison with 2 messages.'
+'<ChannelType.chat> Occultisme'
+'<ChannelType.chat> Occultisme with 2 messages.'
+'<ChannelType.chat> Dextérité'
+'<ChannelType.chat> Dextérité with 2 messages.'
+'<ChannelType.forum> Nom du Personnage - Suivi'
+'<ChannelType.chat> Esprits'
+'<ChannelType.chat> Esprits with 2 messages.'
+'<ChannelType.announcement> Downtown - Description'
+'<ChannelType.announcement> Downtown - Description with 1 announcements.'
+'<ChannelType.chat> Investigation'
+'<ChannelType.chat> Investigation with 2 messages.'
+'<ChannelType.chat> Fausse identité'
+'<ChannelType.chat> Fausse identité with 2 messages.'
+'<ChannelType.chat> Mêlée'
+'<ChannelType.chat> Mêlée with 2 messages.'
+'<ChannelType.chat> Forces'
+'<ChannelType.chat> Forces with 2 messages.'
+'<ChannelType.chat> Médecine'
+'<ChannelType.chat> Médecine with 2 messages.'
+'<ChannelType.announcement> Silicon Valley - Description'
+'<ChannelType.announcement> Silicon Valley - Description with 1 announcements.'
+'<ChannelType.chat> Prime'
+'<ChannelType.chat> Prime with 2 messages.'
+'<ChannelType.chat> Ressources'
+'<ChannelType.chat> Ressources with 2 messages.'
+'<ChannelType.announcement> Feuille de personnage'
+Ignoring exception in command backupChannels:
+Traceback (most recent call last):
+  File "/home/minecraft/multicraft/servers/server223117/.local/lib/python3.9/site-packages/guilded/ext/commands/core.py", line 83, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "/home/minecraft/multicraft/servers/server223117/guilded_altereal.py", line 156, in backupChannels
+    historyBuffer = await channel.fetch_announcements()
+  File "/home/minecraft/multicraft/servers/server223117/.local/lib/python3.9/site-packages/guilded/channel.py", line 1114, in fetch_announcements
+    announcements.append(Announcement(data=announcement_data, channel=self, state=self._state))
+  File "/home/minecraft/multicraft/servers/server223117/.local/lib/python3.9/site-packages/guilded/channel.py", line 921, in __init__
+    self.content: str = self._get_full_content(data['content'])
+  File "/home/minecraft/multicraft/servers/server223117/.local/lib/python3.9/site-packages/guilded/message.py", line 321, in _get_full_content
+    channel = self._state._get_team_channel(self.team_id, channel.get('id'))
+AttributeError: 'Announcement' object has no attribute 'team_id'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/minecraft/multicraft/servers/server223117/.local/lib/python3.9/site-packages/guilded/ext/commands/bot.py", line 452, in invoke
+    await ctx.command.invoke(ctx)
+  File "/home/minecraft/multicraft/servers/server223117/.local/lib/python3.9/site-packages/guilded/ext/commands/core.py", line 619, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "/home/minecraft/multicraft/servers/server223117/.local/lib/python3.9/site-packages/guilded/ext/commands/core.py", line 92, in wrapped
+    raise CommandInvokeError(exc) from exc
+guilded.ext.commands.errors.CommandInvokeError: Command raised an exception: AttributeError: 'Announcement' object has no attribute 'team_id'

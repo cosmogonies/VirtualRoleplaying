@@ -1,0 +1,212 @@
+Defaulting to user installation because normal site-packages is not writeable
+Requirement already satisfied: discord.py in ./.local/lib/python3.9/site-packages (1.7.3)
+Requirement already satisfied: aiohttp<3.8.0,>=3.6.0 in ./.local/lib/python3.9/site-packages (from discord.py) (3.7.4.post0)
+Requirement already satisfied: attrs>=17.3.0 in ./.local/lib/python3.9/site-packages (from aiohttp<3.8.0,>=3.6.0->discord.py) (21.2.0)
+Requirement already satisfied: chardet<5.0,>=2.0 in ./.local/lib/python3.9/site-packages (from aiohttp<3.8.0,>=3.6.0->discord.py) (4.0.0)
+Requirement already satisfied: yarl<2.0,>=1.0 in ./.local/lib/python3.9/site-packages (from aiohttp<3.8.0,>=3.6.0->discord.py) (1.6.3)
+Requirement already satisfied: multidict<7.0,>=4.5 in ./.local/lib/python3.9/site-packages (from aiohttp<3.8.0,>=3.6.0->discord.py) (5.2.0)
+Requirement already satisfied: typing-extensions>=3.6.5 in ./.local/lib/python3.9/site-packages (from aiohttp<3.8.0,>=3.6.0->discord.py) (3.10.0.2)
+Requirement already satisfied: async-timeout<4.0,>=3.0 in ./.local/lib/python3.9/site-packages (from aiohttp<3.8.0,>=3.6.0->discord.py) (3.0.1)
+Requirement already satisfied: idna>=2.0 in /usr/lib/python3/dist-packages (from yarl<2.0,>=1.0->aiohttp<3.8.0,>=3.6.0->discord.py) (2.6)
+WARNING: You are using pip version 21.2.4; however, version 21.3.1 is available.
+You should consider upgrading via the '/usr/bin/python3.7 -m pip install --upgrade pip' command.
+Logged in as altereal.bot (ID: 4WP0JYEd)
+------
+/home/minecraft/multicraft/servers/server223117/altereal/__init__.py:336: RuntimeWarning: coroutine 'Command.__call__' was never awaited
+  reload(sys.modules['altereal'])
+RuntimeWarning: Enable tracemalloc to get the object allocation traceback
+Python modules reloaded !
+Python modules reloaded !
+Python modules reloaded !
+Python modules reloaded !
+Python modules reloaded !
+['__abstractmethods__',
+ '__class__',
+ '__delattr__',
+ '__dict__',
+ '__dir__',
+ '__doc__',
+ '__eq__',
+ '__format__',
+ '__ge__',
+ '__getattribute__',
+ '__gt__',
+ '__hash__',
+ '__init__',
+ '__init_subclass__',
+ '__le__',
+ '__lt__',
+ '__module__',
+ '__ne__',
+ '__new__',
+ '__reduce__',
+ '__reduce_ex__',
+ '__repr__',
+ '__setattr__',
+ '__sizeof__',
+ '__str__',
+ '__subclasshook__',
+ '__weakref__',
+ '_abc_impl',
+ '_channel',
+ '_channel_id',
+ '_state',
+ 'args',
+ 'author',
+ 'bot',
+ 'channel',
+ 'clean_prefix',
+ 'cog',
+ 'command',
+ 'command_failed',
+ 'create_thread',
+ 'fetch_message',
+ 'guild',
+ 'history',
+ 'invoked_parents',
+ 'invoked_subcommand',
+ 'invoked_with',
+ 'kwargs',
+ 'me',
+ 'message',
+ 'pins',
+ 'prefix',
+ 'reply',
+ 'send',
+ 'subcommand_passed',
+ 'team',
+ 'trigger_typing',
+ 'valid',
+ 'view']
+server has 107 channels.
+'<ChannelType.media> [None] 🚻 Portraits FOUND'
+'<ChannelType.chat> [None] 🌐 Darknet FOUND'
+"<ChannelType.announcement> [None] Télévision (Chaines d'info) FOUND"
+'<ChannelType.chat> [None] Comment écrire FOUND'
+'<ChannelType.announcement> [None] 📜 Mage@Zine FOUND'
+'<ChannelType.chat> [None] Empathie FOUND'
+'<ChannelType.chat> [None] Athlétisme FOUND'
+'<ChannelType.chat> [None] Entropie FOUND'
+'<ChannelType.announcement> [None] Golden Gate - Description FOUND'
+'<ChannelType.doc> [None] Règles FOUND'
+'<ChannelType.announcement> [None] Chronique présentation FOUND'
+'<ChannelType.chat> [None] Mentor FOUND'
+'<ChannelType.chat> [None] Influence FOUND'
+'<ChannelType.announcement> [None] Habitations victoriennes - Description FOUND'
+'<ChannelType.chat> [None] Vie FOUND'
+'<ChannelType.chat> [None] Statut FOUND'
+'<ChannelType.chat> [None] Alliés FOUND'
+'<ChannelType.forum> [None] forum FOUND'
+'<ChannelType.chat> [None] Technologie FOUND'
+'<ChannelType.chat> [None] Bagarre FOUND'
+'<ChannelType.chat> [None] Logique FOUND'
+'<ChannelType.chat> [None] Occultisme FOUND'
+'<ChannelType.chat> [None] Dextérité FOUND'
+'<ChannelType.forum> [None] Pr.Exemple - Suivi FOUND'
+'<ChannelType.chat> [None] Esprits FOUND'
+'<ChannelType.announcement> [None] Downtown - Description FOUND'
+'<ChannelType.chat> [None] Investigation FOUND'
+'<ChannelType.chat> [None] Fausse identité FOUND'
+'<ChannelType.chat> [None] Mêlée FOUND'
+'<ChannelType.chat> [None] Forces FOUND'
+'<ChannelType.chat> [None] Médecine FOUND'
+'<ChannelType.announcement> [None] Silicon Valley - Description FOUND'
+'<ChannelType.chat> [None] Prime FOUND'
+'<ChannelType.chat> [None] Ressources FOUND'
+'<ChannelType.announcement> [None] Feuille de personnage FOUND'
+'<ChannelType.chat> [None] Familier FOUND'
+'<ChannelType.chat> [None] 🌐 Internets FOUND'
+'<ChannelType.chat> [None] tests de bot FOUND'
+'<ChannelType.chat> [None] Informatique FOUND'
+'<ChannelType.forum> [None] Questions de règles FOUND'
+'<ChannelType.chat> [None] Art FOUND'
+'<ChannelType.chat> [None] Sondages FOUND'
+'<ChannelType.announcement> [None] Historiques FOUND'
+'<ChannelType.chat> [None] Général (hors jeu) FOUND'
+'<ChannelType.chat> [None] Ésotérisme FOUND'
+'<ChannelType.chat> [None] Renommée FOUND'
+'<ChannelType.chat> [None] Vigilance FOUND'
+'<ChannelType.chat> [None] Artisanats FOUND'
+'<ChannelType.chat> [None] Etiquette FOUND'
+'<ChannelType.chat> [None] Survie FOUND'
+'<ChannelType.chat> [None] Manipulation FOUND'
+'<ChannelType.chat> [None] Expression FOUND'
+'<ChannelType.chat> [None] Perception FOUND'
+'<ChannelType.announcement> [None] San Francisco - Description FOUND'
+'<ChannelType.chat> [None] Idées vrac from IRL FOUND'
+'<ChannelType.chat> [None] Sillicon Valley - Narration FOUND'
+'<ChannelType.doc> [None] Aide de conte FOUND'
+'<ChannelType.announcement> [None] Capacités FOUND'
+'<ChannelType.chat> [None] Méditation FOUND'
+'<ChannelType.announcement> [None] Yosemite - Description FOUND'
+'<ChannelType.chat> [None] Yosemite - Narration FOUND'
+'<ChannelType.chat> [None] Golden Gate - Narration FOUND'
+'<ChannelType.chat> [None] Matière FOUND'
+'<ChannelType.chat> [None] Subterfuge FOUND'
+'<ChannelType.list> [None] TO DO FOUND'
+'<ChannelType.chat> [None] Commandement FOUND'
+'<ChannelType.chat> [None] Alcatraz - Narration FOUND'
+'<ChannelType.chat> [None] Sciences FOUND'
+'<ChannelType.chat> [None] Empathie FOUND'
+'<ChannelType.chat> [None] Charte de comportement FOUND'
+'<ChannelType.chat> [None] Node FOUND'
+'<ChannelType.chat> [None] Expérience de la rue FOUND'
+'<ChannelType.announcement> [None] Sphères FOUND'
+'<ChannelType.chat> [None] Furtivité FOUND'
+'<ChannelType.chat> [None] Mémoire FOUND'
+'<ChannelType.chat> [None] Charisme FOUND'
+'<ChannelType.media> [None] Alcatraz - Photos FOUND'
+'<ChannelType.chat> [None] Sheet template tests FOUND'
+'<ChannelType.chat> [None] Contacts FOUND'
+'<ChannelType.media> [None] Habitations victoriennes - Photos FOUND'
+'<ChannelType.chat> [None] Érudition FOUND'
+'<ChannelType.chat> [None] Prodige FOUND'
+'<ChannelType.announcement> [None] Annonces FOUND'
+'<ChannelType.media> [None] Downtown - Photos FOUND'
+'<ChannelType.chat> [None] Armes à feu FOUND'
+'<ChannelType.media> [None] Silicon Valley - Photos FOUND'
+'<ChannelType.chat> [None] Conduite FOUND'
+'<ChannelType.chat> [None] Guilded tips FOUND'
+'<ChannelType.announcement> [None] Attributs FOUND'
+'<ChannelType.announcement> [None] Alcatraz - Description FOUND'
+'<ChannelType.chat> [None] Intimidation FOUND'
+'<ChannelType.chat> [None] Recherche FOUND'
+'<ChannelType.chat> [None] Psyché FOUND'
+'<ChannelType.chat> [None] Droit FOUND'
+'<ChannelType.chat> [None] Volonté FOUND'
+'<ChannelType.chat> [None] Downtown - Narration FOUND'
+'<ChannelType.doc> [None] Anecdotique FOUND'
+'<ChannelType.chat> [None] Force FOUND'
+'<ChannelType.chat> [None] Rang FOUND'
+'<ChannelType.media> [None] Yosemite - Photos FOUND'
+'<ChannelType.chat> [None] Culte FOUND'
+'<ChannelType.chat> [None] general FOUND'
+'<ChannelType.media> [None] Golden Gate - Photos FOUND'
+'<ChannelType.chat> [None] Habitations victoriennes - Narration FOUND'
+'<ChannelType.chat> [None] Arts martiaux FOUND'
+'<ChannelType.chat> [None] Espace FOUND'
+'<ChannelType.chat> [None] Temps FOUND'
+['__bool__',
+ '__class__',
+ '__delattr__',
+ '__dir__',
+ '__doc__',
+ '__eq__',
+ '__format__',
+ '__ge__',
+ '__getattribute__',
+ '__gt__',
+ '__hash__',
+ '__init__',
+ '__init_subclass__',
+ '__le__',
+ '__lt__',
+ '__ne__',
+ '__new__',
+ '__reduce__',
+ '__reduce_ex__',
+ '__repr__',
+ '__setattr__',
+ '__sizeof__',
+ '__str__',
+ '__subclasshook__']

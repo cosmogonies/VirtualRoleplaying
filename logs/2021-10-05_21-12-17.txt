@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "/home/minecraft/multicraft/servers/server223117/bot.py", line 4, in <module>
+    import discord
+ModuleNotFoundError: No module named 'discord'

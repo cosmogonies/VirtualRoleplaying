@@ -1,0 +1,38 @@
+Defaulting to user installation because normal site-packages is not writeable
+Requirement already satisfied: discord.py in ./.local/lib/python3.9/site-packages (1.7.3)
+Requirement already satisfied: aiohttp<3.8.0,>=3.6.0 in ./.local/lib/python3.9/site-packages (from discord.py) (3.7.4.post0)
+Requirement already satisfied: multidict<7.0,>=4.5 in ./.local/lib/python3.9/site-packages (from aiohttp<3.8.0,>=3.6.0->discord.py) (5.2.0)
+Requirement already satisfied: yarl<2.0,>=1.0 in ./.local/lib/python3.9/site-packages (from aiohttp<3.8.0,>=3.6.0->discord.py) (1.6.3)
+Requirement already satisfied: chardet<5.0,>=2.0 in ./.local/lib/python3.9/site-packages (from aiohttp<3.8.0,>=3.6.0->discord.py) (4.0.0)
+Requirement already satisfied: async-timeout<4.0,>=3.0 in ./.local/lib/python3.9/site-packages (from aiohttp<3.8.0,>=3.6.0->discord.py) (3.0.1)
+Requirement already satisfied: typing-extensions>=3.6.5 in ./.local/lib/python3.9/site-packages (from aiohttp<3.8.0,>=3.6.0->discord.py) (3.10.0.2)
+Requirement already satisfied: attrs>=17.3.0 in ./.local/lib/python3.9/site-packages (from aiohttp<3.8.0,>=3.6.0->discord.py) (21.2.0)
+Requirement already satisfied: idna>=2.0 in /usr/lib/python3/dist-packages (from yarl<2.0,>=1.0->aiohttp<3.8.0,>=3.6.0->discord.py) (2.6)
+WARNING: You are using pip version 21.2.4; however, version 21.3.1 is available.
+You should consider upgrading via the '/usr/bin/python3.7 -m pip install --upgrade pip' command.
+Logged in as altereal.bot (ID: 4WP0JYEd)
+------
+Ignoring exception in command createCharacter:
+Traceback (most recent call last):
+  File "/home/minecraft/multicraft/servers/server223117/.local/lib/python3.9/site-packages/guilded/ext/commands/core.py", line 83, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "/home/minecraft/multicraft/servers/server223117/guilded_altereal.py", line 170, in createCharacter
+    charChannel = await createChannel(ctx, channelName=characterName, categoryName='Seul avec le conte')
+  File "/home/minecraft/multicraft/servers/server223117/.local/lib/python3.9/site-packages/guilded/ext/commands/core.py", line 384, in __call__
+    return await self.callback(*args, **kwargs)
+  File "/home/minecraft/multicraft/servers/server223117/guilded_altereal.py", line 205, in createChannel
+    await ctx.guild.create_chat_channel(name=channelName, category = categoryName)
+  File "/home/minecraft/multicraft/servers/server223117/.local/lib/python3.9/site-packages/guilded/team.py", line 361, in create_chat_channel
+    category_id=category.id if category is not None else None,
+AttributeError: 'str' object has no attribute 'id'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/minecraft/multicraft/servers/server223117/.local/lib/python3.9/site-packages/guilded/ext/commands/bot.py", line 452, in invoke
+    await ctx.command.invoke(ctx)
+  File "/home/minecraft/multicraft/servers/server223117/.local/lib/python3.9/site-packages/guilded/ext/commands/core.py", line 619, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "/home/minecraft/multicraft/servers/server223117/.local/lib/python3.9/site-packages/guilded/ext/commands/core.py", line 92, in wrapped
+    raise CommandInvokeError(exc) from exc
+guilded.ext.commands.errors.CommandInvokeError: Command raised an exception: AttributeError: 'str' object has no attribute 'id'

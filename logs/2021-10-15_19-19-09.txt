@@ -1,0 +1,35 @@
+Defaulting to user installation because normal site-packages is not writeable
+Requirement already satisfied: discord.py in ./.local/lib/python3.9/site-packages (1.7.3)
+Requirement already satisfied: aiohttp<3.8.0,>=3.6.0 in ./.local/lib/python3.9/site-packages (from discord.py) (3.7.4.post0)
+Requirement already satisfied: chardet<5.0,>=2.0 in ./.local/lib/python3.9/site-packages (from aiohttp<3.8.0,>=3.6.0->discord.py) (4.0.0)
+Requirement already satisfied: attrs>=17.3.0 in ./.local/lib/python3.9/site-packages (from aiohttp<3.8.0,>=3.6.0->discord.py) (21.2.0)
+Requirement already satisfied: yarl<2.0,>=1.0 in ./.local/lib/python3.9/site-packages (from aiohttp<3.8.0,>=3.6.0->discord.py) (1.6.3)
+Requirement already satisfied: typing-extensions>=3.6.5 in ./.local/lib/python3.9/site-packages (from aiohttp<3.8.0,>=3.6.0->discord.py) (3.10.0.2)
+Requirement already satisfied: multidict<7.0,>=4.5 in ./.local/lib/python3.9/site-packages (from aiohttp<3.8.0,>=3.6.0->discord.py) (5.2.0)
+Requirement already satisfied: async-timeout<4.0,>=3.0 in ./.local/lib/python3.9/site-packages (from aiohttp<3.8.0,>=3.6.0->discord.py) (3.0.1)
+Requirement already satisfied: idna>=2.0 in /usr/lib/python3/dist-packages (from yarl<2.0,>=1.0->aiohttp<3.8.0,>=3.6.0->discord.py) (2.6)
+WARNING: You are using pip version 21.2.4; however, version 21.3 is available.
+You should consider upgrading via the '/usr/bin/python3.7 -m pip install --upgrade pip' command.
+Logged in as altereal.bot (ID: 4WP0JYEd)
+------
+server has 84 channels.
+Help on method history in module guilded.abc:
+
+async history(*, limit: int = 50) -> List[guilded.message.ChatMessage] method of guilded.channel.ChatChannel instance
+    |coro|
+    
+    Fetch the message history of this channel.
+    
+    Parameters
+    -----------
+    limit: Optional[:class:`int`]
+        The maximum number of messages to fetch. Defaults to 50.
+    
+    Returns
+    --------
+    List[:class:`Message`]
+
+None
+/home/minecraft/multicraft/servers/server223117/.local/lib/python3.9/site-packages/guilded/ext/commands/core.py:83: RuntimeWarning: coroutine 'Messageable.history' was never awaited
+  ret = await coro(*args, **kwargs)
+RuntimeWarning: Enable tracemalloc to get the object allocation traceback

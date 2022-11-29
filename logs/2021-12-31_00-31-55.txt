@@ -1,0 +1,130 @@
+Defaulting to user installation because normal site-packages is not writeable
+Requirement already satisfied: discord.py in ./.local/lib/python3.9/site-packages (1.7.3)
+Requirement already satisfied: aiohttp<3.8.0,>=3.6.0 in ./.local/lib/python3.9/site-packages (from discord.py) (3.7.4.post0)
+Requirement already satisfied: attrs>=17.3.0 in ./.local/lib/python3.9/site-packages (from aiohttp<3.8.0,>=3.6.0->discord.py) (21.2.0)
+Requirement already satisfied: yarl<2.0,>=1.0 in ./.local/lib/python3.9/site-packages (from aiohttp<3.8.0,>=3.6.0->discord.py) (1.6.3)
+Requirement already satisfied: multidict<7.0,>=4.5 in ./.local/lib/python3.9/site-packages (from aiohttp<3.8.0,>=3.6.0->discord.py) (5.2.0)
+Requirement already satisfied: async-timeout<4.0,>=3.0 in ./.local/lib/python3.9/site-packages (from aiohttp<3.8.0,>=3.6.0->discord.py) (3.0.1)
+Requirement already satisfied: chardet<5.0,>=2.0 in ./.local/lib/python3.9/site-packages (from aiohttp<3.8.0,>=3.6.0->discord.py) (4.0.0)
+Requirement already satisfied: typing-extensions>=3.6.5 in ./.local/lib/python3.9/site-packages (from aiohttp<3.8.0,>=3.6.0->discord.py) (3.10.0.2)
+Requirement already satisfied: idna>=2.0 in /usr/lib/python3/dist-packages (from yarl<2.0,>=1.0->aiohttp<3.8.0,>=3.6.0->discord.py) (2.6)
+WARNING: You are using pip version 21.2.4; however, version 21.3.1 is available.
+You should consider upgrading via the '/usr/bin/python3.7 -m pip install --upgrade pip' command.
+Logged in as altereal.bot (ID: 4WP0JYEd)
+------
+['__class__',
+ '__delattr__',
+ '__dict__',
+ '__dir__',
+ '__doc__',
+ '__eq__',
+ '__format__',
+ '__ge__',
+ '__getattribute__',
+ '__gt__',
+ '__hash__',
+ '__init__',
+ '__init_subclass__',
+ '__le__',
+ '__lt__',
+ '__module__',
+ '__ne__',
+ '__new__',
+ '__reduce__',
+ '__reduce_ex__',
+ '__repr__',
+ '__setattr__',
+ '__sizeof__',
+ '__str__',
+ '__subclasshook__',
+ '__weakref__',
+ '_emojis',
+ '_follower_count',
+ '_groups',
+ '_member_count',
+ '_state',
+ 'ban',
+ 'banner_url',
+ 'base_group',
+ 'bio',
+ 'bots',
+ 'channels',
+ 'create_chat_channel',
+ 'create_docs_channel',
+ 'create_forum_channel',
+ 'create_invite',
+ 'created_at',
+ 'delete',
+ 'description',
+ 'discord_guild_id',
+ 'discord_guild_name',
+ 'emojis',
+ 'fetch_channel',
+ 'fetch_channels',
+ 'fetch_emojis',
+ 'fetch_group',
+ 'fetch_groups',
+ 'fetch_member',
+ 'fetch_members',
+ 'follower_count',
+ 'get_channel',
+ 'get_emoji',
+ 'get_group',
+ 'get_member',
+ 'getch_channel',
+ 'getch_member',
+ 'groups',
+ 'icon_url',
+ 'id',
+ 'kick',
+ 'leave',
+ 'me',
+ 'member_count',
+ 'members',
+ 'name',
+ 'owner',
+ 'owner_id',
+ 'pro',
+ 'public',
+ 'recruiting',
+ 'slug',
+ 'social_info',
+ 'subdomain',
+ 'timezone',
+ 'unban',
+ 'user_is_applicant',
+ 'user_is_banned',
+ 'user_is_following',
+ 'user_is_invited',
+ 'vanity_url',
+ 'verified',
+ 'ws',
+ 'ws_connect']
+groups:
+	Server home
+	San Francisco
+	CONTE
+	Règles
+channels:
+Ignoring exception in command debugMe:
+Traceback (most recent call last):
+  File "/home/minecraft/multicraft/servers/server223117/.local/lib/python3.9/site-packages/guilded/ext/commands/core.py", line 83, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "/home/minecraft/multicraft/servers/server223117/altereal_guilded.py", line 324, in debugMe
+    testChannel = await GetChannel(ctx, "Pr.Exemple")
+  File "/home/minecraft/multicraft/servers/server223117/.local/lib/python3.9/site-packages/guilded/ext/commands/core.py", line 384, in __call__
+    return await self.callback(*args, **kwargs)
+  File "/home/minecraft/multicraft/servers/server223117/altereal_guilded.py", line 206, in GetChannel
+    print("\t"+cur.name+" <"+str(channel.type)+">")
+NameError: name 'cur' is not defined
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/minecraft/multicraft/servers/server223117/.local/lib/python3.9/site-packages/guilded/ext/commands/bot.py", line 452, in invoke
+    await ctx.command.invoke(ctx)
+  File "/home/minecraft/multicraft/servers/server223117/.local/lib/python3.9/site-packages/guilded/ext/commands/core.py", line 619, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "/home/minecraft/multicraft/servers/server223117/.local/lib/python3.9/site-packages/guilded/ext/commands/core.py", line 92, in wrapped
+    raise CommandInvokeError(exc) from exc
+guilded.ext.commands.errors.CommandInvokeError: Command raised an exception: NameError: name 'cur' is not defined

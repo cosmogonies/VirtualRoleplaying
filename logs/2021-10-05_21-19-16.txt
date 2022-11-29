@@ -1,0 +1,24 @@
+Defaulting to user installation because normal site-packages is not writeable
+Collecting discord.py
+  Downloading discord.py-1.7.3-py3-none-any.whl (786 kB)
+Collecting aiohttp<3.8.0,>=3.6.0
+  Downloading aiohttp-3.7.4.post0-cp39-cp39-manylinux2014_x86_64.whl (1.4 MB)
+Collecting typing-extensions>=3.6.5
+  Downloading typing_extensions-3.10.0.2-py3-none-any.whl (26 kB)
+Collecting async-timeout<4.0,>=3.0
+  Downloading async_timeout-3.0.1-py3-none-any.whl (8.2 kB)
+Collecting attrs>=17.3.0
+  Downloading attrs-21.2.0-py2.py3-none-any.whl (53 kB)
+Collecting multidict<7.0,>=4.5
+  Downloading multidict-5.2.0-cp39-cp39-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_12_x86_64.manylinux2010_x86_64.whl (174 kB)
+Collecting chardet<5.0,>=2.0
+  Downloading chardet-4.0.0-py2.py3-none-any.whl (178 kB)
+Collecting yarl<2.0,>=1.0
+  Downloading yarl-1.6.3-cp39-cp39-manylinux2014_x86_64.whl (315 kB)
+Requirement already satisfied: idna>=2.0 in /usr/lib/python3/dist-packages (from yarl<2.0,>=1.0->aiohttp<3.8.0,>=3.6.0->discord.py) (2.6)
+Installing collected packages: multidict, yarl, typing-extensions, chardet, attrs, async-timeout, aiohttp, discord.py
+  WARNING: The script chardetect is installed in '/home/minecraft/multicraft/servers/server223117/.local/bin' which is not on PATH.
+  Consider adding this directory to PATH or, if you prefer to suppress this warning, use --no-warn-script-location.
+Successfully installed aiohttp-3.7.4.post0 async-timeout-3.0.1 attrs-21.2.0 chardet-4.0.0 discord.py-1.7.3 multidict-5.2.0 typing-extensions-3.10.0.2 yarl-1.6.3
+bot.py START
+bot.py END

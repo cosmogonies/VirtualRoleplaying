@@ -1,0 +1,284 @@
+Defaulting to user installation because normal site-packages is not writeable
+Requirement already satisfied: discord.py in ./.local/lib/python3.9/site-packages (1.7.3)
+Requirement already satisfied: aiohttp<3.8.0,>=3.6.0 in ./.local/lib/python3.9/site-packages (from discord.py) (3.7.4.post0)
+Requirement already satisfied: multidict<7.0,>=4.5 in ./.local/lib/python3.9/site-packages (from aiohttp<3.8.0,>=3.6.0->discord.py) (5.2.0)
+Requirement already satisfied: attrs>=17.3.0 in ./.local/lib/python3.9/site-packages (from aiohttp<3.8.0,>=3.6.0->discord.py) (21.2.0)
+Requirement already satisfied: typing-extensions>=3.6.5 in ./.local/lib/python3.9/site-packages (from aiohttp<3.8.0,>=3.6.0->discord.py) (3.10.0.2)
+Requirement already satisfied: async-timeout<4.0,>=3.0 in ./.local/lib/python3.9/site-packages (from aiohttp<3.8.0,>=3.6.0->discord.py) (3.0.1)
+Requirement already satisfied: yarl<2.0,>=1.0 in ./.local/lib/python3.9/site-packages (from aiohttp<3.8.0,>=3.6.0->discord.py) (1.6.3)
+Requirement already satisfied: chardet<5.0,>=2.0 in ./.local/lib/python3.9/site-packages (from aiohttp<3.8.0,>=3.6.0->discord.py) (4.0.0)
+Requirement already satisfied: idna>=2.0 in /usr/lib/python3/dist-packages (from yarl<2.0,>=1.0->aiohttp<3.8.0,>=3.6.0->discord.py) (2.6)
+WARNING: You are using pip version 21.2.4; however, version 21.3.1 is available.
+You should consider upgrading via the '/usr/bin/python3.7 -m pip install --upgrade pip' command.
+Logged in as altereal.bot (ID: 4WP0JYEd)
+------
+['__class__',
+ '__delattr__',
+ '__dict__',
+ '__dir__',
+ '__doc__',
+ '__eq__',
+ '__format__',
+ '__ge__',
+ '__getattribute__',
+ '__gt__',
+ '__hash__',
+ '__init__',
+ '__init_subclass__',
+ '__le__',
+ '__lt__',
+ '__module__',
+ '__ne__',
+ '__new__',
+ '__reduce__',
+ '__reduce_ex__',
+ '__repr__',
+ '__setattr__',
+ '__sizeof__',
+ '__str__',
+ '__subclasshook__',
+ '__weakref__',
+ '_emojis',
+ '_follower_count',
+ '_groups',
+ '_member_count',
+ '_state',
+ 'ban',
+ 'banner_url',
+ 'base_group',
+ 'bio',
+ 'bots',
+ 'channels',
+ 'create_chat_channel',
+ 'create_docs_channel',
+ 'create_forum_channel',
+ 'create_invite',
+ 'created_at',
+ 'delete',
+ 'description',
+ 'discord_guild_id',
+ 'discord_guild_name',
+ 'emojis',
+ 'fetch_channel',
+ 'fetch_channels',
+ 'fetch_emojis',
+ 'fetch_group',
+ 'fetch_groups',
+ 'fetch_member',
+ 'fetch_members',
+ 'follower_count',
+ 'get_channel',
+ 'get_emoji',
+ 'get_group',
+ 'get_member',
+ 'getch_channel',
+ 'getch_member',
+ 'groups',
+ 'icon_url',
+ 'id',
+ 'kick',
+ 'leave',
+ 'me',
+ 'member_count',
+ 'members',
+ 'name',
+ 'owner',
+ 'owner_id',
+ 'pro',
+ 'public',
+ 'recruiting',
+ 'slug',
+ 'social_info',
+ 'subdomain',
+ 'timezone',
+ 'unban',
+ 'user_is_applicant',
+ 'user_is_banned',
+ 'user_is_following',
+ 'user_is_invited',
+ 'vanity_url',
+ 'verified',
+ 'ws',
+ 'ws_connect']
+groups:
+	Server home
+	San Francisco
+	CONTE
+	Règles
+channels:
+	🚻 Portraits <ChannelType.media>
+	🌐 Darknet <ChannelType.chat>
+	Télévision (Chaines d'info) <ChannelType.announcement>
+	Comment écrire <ChannelType.chat>
+	📜 Mage@Zine <ChannelType.announcement>
+	Pr.Exemple <ChannelType.chat>
+	Empathie <ChannelType.chat>
+	Athlétisme <ChannelType.chat>
+	Entropie <ChannelType.chat>
+	Golden Gate - Description <ChannelType.announcement>
+	Règles <ChannelType.doc>
+	Chronique présentation <ChannelType.announcement>
+	Mentor <ChannelType.chat>
+	Influence <ChannelType.chat>
+	Habitations victoriennes - Description <ChannelType.announcement>
+	Vie <ChannelType.chat>
+	Statut <ChannelType.chat>
+	Alliés <ChannelType.chat>
+	forum <ChannelType.forum>
+	Technologie <ChannelType.chat>
+	Bagarre <ChannelType.chat>
+	Logique <ChannelType.chat>
+	Occultisme <ChannelType.chat>
+	Dextérité <ChannelType.chat>
+	Pr.Exemple - Suivi <ChannelType.forum>
+	Esprits <ChannelType.chat>
+	Downtown - Description <ChannelType.announcement>
+	Investigation <ChannelType.chat>
+	Fausse identité <ChannelType.chat>
+	Mêlée <ChannelType.chat>
+	Forces <ChannelType.chat>
+	Médecine <ChannelType.chat>
+	Silicon Valley - Description <ChannelType.announcement>
+	Prime <ChannelType.chat>
+	Ressources <ChannelType.chat>
+	Feuille de personnage <ChannelType.announcement>
+	Familier <ChannelType.chat>
+	🌐 Internets <ChannelType.chat>
+	tests de bot <ChannelType.chat>
+	Informatique <ChannelType.chat>
+	Questions de règles <ChannelType.forum>
+	Art <ChannelType.chat>
+	Sondages <ChannelType.chat>
+	Historiques <ChannelType.announcement>
+	Général (hors jeu) <ChannelType.chat>
+	Ésotérisme <ChannelType.chat>
+	Renommée <ChannelType.chat>
+	Vigilance <ChannelType.chat>
+	Artisanats <ChannelType.chat>
+	Etiquette <ChannelType.chat>
+	Survie <ChannelType.chat>
+	Manipulation <ChannelType.chat>
+	Expression <ChannelType.chat>
+	Perception <ChannelType.chat>
+	San Francisco - Description <ChannelType.announcement>
+	Idées vrac from IRL <ChannelType.chat>
+	Sillicon Valley - Narration <ChannelType.chat>
+	Aide de conte <ChannelType.doc>
+	Capacités <ChannelType.announcement>
+	Méditation <ChannelType.chat>
+	Yosemite - Description <ChannelType.announcement>
+	Yosemite - Narration <ChannelType.chat>
+	Golden Gate - Narration <ChannelType.chat>
+	Matière <ChannelType.chat>
+	Subterfuge <ChannelType.chat>
+	TO DO <ChannelType.list>
+	Commandement <ChannelType.chat>
+	Alcatraz - Narration <ChannelType.chat>
+	Sciences <ChannelType.chat>
+	Empathie <ChannelType.chat>
+	Charte de comportement <ChannelType.chat>
+	Node <ChannelType.chat>
+	Expérience de la rue <ChannelType.chat>
+	Sphères <ChannelType.announcement>
+	Furtivité <ChannelType.chat>
+	Mémoire <ChannelType.chat>
+	Charisme <ChannelType.chat>
+	Alcatraz - Photos <ChannelType.media>
+	Sheet template tests <ChannelType.chat>
+	Contacts <ChannelType.chat>
+	Habitations victoriennes - Photos <ChannelType.media>
+	Érudition <ChannelType.chat>
+	Prodige <ChannelType.chat>
+	Annonces <ChannelType.announcement>
+	Downtown - Photos <ChannelType.media>
+	Armes à feu <ChannelType.chat>
+	Silicon Valley - Photos <ChannelType.media>
+	Conduite <ChannelType.chat>
+	Guilded tips <ChannelType.chat>
+	Attributs <ChannelType.announcement>
+	Alcatraz - Description <ChannelType.announcement>
+	Intimidation <ChannelType.chat>
+	Recherche <ChannelType.chat>
+	Psyché <ChannelType.chat>
+	Droit <ChannelType.chat>
+	Volonté <ChannelType.chat>
+	Downtown - Narration <ChannelType.chat>
+	Anecdotique <ChannelType.doc>
+	Force <ChannelType.chat>
+	Rang <ChannelType.chat>
+	Yosemite - Photos <ChannelType.media>
+	Culte <ChannelType.chat>
+	general <ChannelType.chat>
+	Golden Gate - Photos <ChannelType.media>
+	Habitations victoriennes - Narration <ChannelType.chat>
+	Arts martiaux <ChannelType.chat>
+	Espace <ChannelType.chat>
+	Temps <ChannelType.chat>
+server has 108 channels.
+['__abstractmethods__',
+ '__class__',
+ '__delattr__',
+ '__dict__',
+ '__dir__',
+ '__doc__',
+ '__eq__',
+ '__format__',
+ '__ge__',
+ '__getattribute__',
+ '__gt__',
+ '__hash__',
+ '__init__',
+ '__init_subclass__',
+ '__le__',
+ '__lt__',
+ '__module__',
+ '__ne__',
+ '__new__',
+ '__reduce__',
+ '__reduce_ex__',
+ '__repr__',
+ '__setattr__',
+ '__sizeof__',
+ '__str__',
+ '__subclasshook__',
+ '__weakref__',
+ '_abc_impl',
+ '_channel',
+ '_channel_id',
+ '_state',
+ '_team',
+ 'added_at',
+ 'archived_at',
+ 'archived_by',
+ 'archived_by_webhook_id',
+ 'auto_archive_at',
+ 'create_thread',
+ 'created_at',
+ 'created_by_webhook_id',
+ 'delete',
+ 'description',
+ 'fetch_message',
+ 'group',
+ 'group_id',
+ 'guild',
+ 'history',
+ 'id',
+ 'mention',
+ 'name',
+ 'parent',
+ 'parent_id',
+ 'pins',
+ 'position',
+ 'public',
+ 'roles_synced',
+ 'send',
+ 'settings',
+ 'share_url',
+ 'slug',
+ 'team',
+ 'team_id',
+ 'topic',
+ 'trigger_typing',
+ 'type',
+ 'updated_at',
+ 'vanity_url']

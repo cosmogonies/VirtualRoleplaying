@@ -1,0 +1,62 @@
+Defaulting to user installation because normal site-packages is not writeable
+Requirement already satisfied: discord.py in ./.local/lib/python3.9/site-packages (1.7.3)
+Requirement already satisfied: aiohttp<3.8.0,>=3.6.0 in ./.local/lib/python3.9/site-packages (from discord.py) (3.7.4.post0)
+Requirement already satisfied: attrs>=17.3.0 in ./.local/lib/python3.9/site-packages (from aiohttp<3.8.0,>=3.6.0->discord.py) (21.2.0)
+Requirement already satisfied: typing-extensions>=3.6.5 in ./.local/lib/python3.9/site-packages (from aiohttp<3.8.0,>=3.6.0->discord.py) (3.10.0.2)
+Requirement already satisfied: yarl<2.0,>=1.0 in ./.local/lib/python3.9/site-packages (from aiohttp<3.8.0,>=3.6.0->discord.py) (1.6.3)
+Requirement already satisfied: chardet<5.0,>=2.0 in ./.local/lib/python3.9/site-packages (from aiohttp<3.8.0,>=3.6.0->discord.py) (4.0.0)
+Requirement already satisfied: multidict<7.0,>=4.5 in ./.local/lib/python3.9/site-packages (from aiohttp<3.8.0,>=3.6.0->discord.py) (5.2.0)
+Requirement already satisfied: async-timeout<4.0,>=3.0 in ./.local/lib/python3.9/site-packages (from aiohttp<3.8.0,>=3.6.0->discord.py) (3.0.1)
+Requirement already satisfied: idna>=2.0 in /usr/lib/python3/dist-packages (from yarl<2.0,>=1.0->aiohttp<3.8.0,>=3.6.0->discord.py) (2.6)
+WARNING: You are using pip version 21.2.4; however, version 21.3 is available.
+You should consider upgrading via the '/usr/bin/python3.7 -m pip install --upgrade pip' command.
+Logged in as altereal.bot (ID: 4WP0JYEd)
+------
+85
+Ignoring exception in command backupChannel:
+Traceback (most recent call last):
+  File "/home/minecraft/multicraft/servers/server223117/.local/lib/python3.9/site-packages/guilded/ext/commands/core.py", line 83, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "/home/minecraft/multicraft/servers/server223117/guilded_altereal.py", line 139, in backupChannel
+    messageList = await channel.history()
+  File "/home/minecraft/multicraft/servers/server223117/.local/lib/python3.9/site-packages/guilded/abc.py", line 233, in history
+    history = await self._state.get_channel_messages(self._channel_id, limit=limit)
+AttributeError: 'ChatChannel' object has no attribute '_channel_id'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/minecraft/multicraft/servers/server223117/.local/lib/python3.9/site-packages/guilded/ext/commands/bot.py", line 452, in invoke
+    await ctx.command.invoke(ctx)
+  File "/home/minecraft/multicraft/servers/server223117/.local/lib/python3.9/site-packages/guilded/ext/commands/core.py", line 619, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "/home/minecraft/multicraft/servers/server223117/.local/lib/python3.9/site-packages/guilded/ext/commands/core.py", line 92, in wrapped
+    raise CommandInvokeError(exc) from exc
+guilded.ext.commands.errors.CommandInvokeError: Command raised an exception: AttributeError: 'ChatChannel' object has no attribute '_channel_id'
+Task exception was never retrieved
+future: <Task finished name='Task-1' coro=<Client.start() done, defined at /home/minecraft/multicraft/servers/server223117/.local/lib/python3.9/site-packages/guilded/client.py:319> exception=GuildedException(AttributeError("'Doc' object has no attribute 'team_id'"))>
+Traceback (most recent call last):
+  File "/home/minecraft/multicraft/servers/server223117/.local/lib/python3.9/site-packages/guilded/gateway.py", line 171, in received_event
+    await event
+  File "/home/minecraft/multicraft/servers/server223117/.local/lib/python3.9/site-packages/guilded/gateway.py", line 433, in TEAM_CHANNEL_CONTENT_CREATED
+    doc = Doc(data=data['doc'], channel=channel, state=self._state)
+  File "/home/minecraft/multicraft/servers/server223117/.local/lib/python3.9/site-packages/guilded/channel.py", line 195, in __init__
+    self.content: str = self._get_full_content(data['content'])
+  File "/home/minecraft/multicraft/servers/server223117/.local/lib/python3.9/site-packages/guilded/message.py", line 321, in _get_full_content
+    channel = self._state._get_team_channel(self.team_id, channel.get('id'))
+AttributeError: 'Doc' object has no attribute 'team_id'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/minecraft/multicraft/servers/server223117/.local/lib/python3.9/site-packages/guilded/client.py", line 325, in start
+    await self.connect()
+  File "/home/minecraft/multicraft/servers/server223117/.local/lib/python3.9/site-packages/guilded/client.py", line 446, in connect
+    await asyncio.gather(
+  File "/home/minecraft/multicraft/servers/server223117/.local/lib/python3.9/site-packages/guilded/client.py", line 420, in listen_socks
+    await ws.poll_event()
+  File "/home/minecraft/multicraft/servers/server223117/.local/lib/python3.9/site-packages/guilded/gateway.py", line 184, in poll_event
+    await self.received_event(msg.data)
+  File "/home/minecraft/multicraft/servers/server223117/.local/lib/python3.9/site-packages/guilded/gateway.py", line 179, in received_event
+    raise exc from e
+guilded.errors.GuildedException: 'Doc' object has no attribute 'team_id'
