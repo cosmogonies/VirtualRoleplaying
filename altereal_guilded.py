@@ -11,6 +11,7 @@ import guilded.client
 
 import datetime
 
+import envReader
 import diceManager
 
 # The source of this example bot was taken from the examples directory in the

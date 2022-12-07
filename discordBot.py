@@ -9,29 +9,20 @@ import discord
 #from dotenv import load_dotenv
 
 import diceManager
-
 import envReader
 
 import re
-
 #load_dotenv()
 
 client = discord.Client()
 print('------')
 
 #pprint.pprint(dir(client))
-
 print('------')
 
 
-
-@bot.command()
-async def janken(ctx):
-    
-
-
-
-
+#@bot.command()
+#async def janken(ctx):
 
 #@client.event
 #async def on_ready():
@@ -54,7 +45,6 @@ async def janken(ctx):
 #    if message.content.startswith('!hello'):
 #        msg = 'Hello {0.author.mention}'.format(message)
 #        await client.send_message(message.channel, msg)
-
 
 def getNiceName(author):
     if author.nick:
@@ -144,13 +134,6 @@ async def doJanken(author, message):
 
         #Juste pour vérifier, on affiche les statistiques (éviter les suspicions !)
         await message.channel.send(str(result.count('Pierre'))+"xPierre " + str(result.count('Feuille'))+"xFeuille "+ str(result.count('Ciseau'))+"xCiseau")
-
-        
-
-
-
-
-
 
 
 
@@ -261,6 +244,8 @@ async def doChallengeComplex(author, message):
         await message.channel.send(getNiceName(author)+' fait '+str(result))
 
 
+
+#print(envReader.getDiscordToken())
 
 client.run(envReader.getDiscordToken())
 print("discordBot.py END")

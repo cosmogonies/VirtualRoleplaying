@@ -29,35 +29,41 @@ def parseEnvFile():
                 value = value[1:lastIndex]
 
                 print((key, value))
+                resultAsDict[key] = value
+
+    return resultAsDict
 
 
-getDiscordToken():
+def getDiscordToken():
     credentialDict = parseEnvFile()
 
     if 'DISCORD_TOKEN_ALTEREAL' in credentialDict:
+        print("Discord tokens found ^^")
         return credentialDict['DISCORD_TOKEN_ALTEREAL']
     else:
-        print("ERROR: Cannot find key 'DISCORD_TOKEN_ALTEREAL' in creadentials in .env file !")
+        print("ERROR: Cannot find key 'DISCORD_TOKEN_ALTEREAL' in credentials in .env file !")
         return ''
 
-getGuildedLogin():
+def getGuildedLogin():
     credentialDict = parseEnvFile()
 
     if 'GUILDED_LOGIN' in credentialDict:
         return credentialDict['GUILDED_LOGIN']
     else:
-        print("ERROR: Cannot find key 'GUILDED_LOGIN' in creadentials in .env file !")
+        print("ERROR: Cannot find key 'GUILDED_LOGIN' in credentials in .env file !")
         return ''
 
 
-getGuildedToken():
+
+def getGuildedToken():
     credentialDict = parseEnvFile()
 
     if 'GUILDED_TOKEN' in credentialDict:
         return credentialDict['GUILDED_TOKEN']
     else:
-        print("ERROR: Cannot find key 'GUILDED_TOKEN' in creadentials in .env file !")
+        print("ERROR: Cannot find key 'GUILDED_TOKEN' in credentials in .env file !")
         return ''
 
 
-#parseEnvFile()
+parseEnvFile()
+print(getDiscordToken())
