@@ -83,6 +83,8 @@ async def on_ready():
 async def on_message(message):
     author = message.author
 
+    print("Event: on_message('"+str(message)+"')")
+
     if message.content.startswith('!janken'):
         print('on_message !janken')
         await doJanken(author, message)

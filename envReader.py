@@ -28,7 +28,7 @@ def parseEnvFile():
 
                 value = value[1:lastIndex]
 
-                print((key, value))
+                #print((key, value))
                 resultAsDict[key] = value
 
     return resultAsDict
@@ -65,5 +65,5 @@ def getGuildedToken():
         return ''
 
 
-parseEnvFile()
-print(getDiscordToken())
+#parseEnvFile()
+#print(getDiscordToken())
